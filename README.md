@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 Security Analyst
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
